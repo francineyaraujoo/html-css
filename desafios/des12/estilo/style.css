@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+
 * {
     margin: 0px;
     padding: 0px;
@@ -53,7 +54,7 @@ section.imagem {
 }
 
 section.imagem > p {
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.247);
     width: 400px;
 }
 
